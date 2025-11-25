@@ -1,4 +1,4 @@
-FROM amazoncorretto:21-alpine3.15
+FROM amazoncorretto:21-alpine
 LABEL MANTAINER="JOAOENRIQUE"
 
 WORKDIR /app
