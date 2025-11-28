@@ -1,7 +1,5 @@
-# Kafka Consumer do módulo 3 e 4
-Para utilizar no módulo 3, utilize o hash da data de entrega, essa vesão é para o módulo 4
-
-Hash do módulo 3 (+2 pontos pela data): https://github.com/servicos-spring/modulo3/tree/3396facb460c3d75802f9db2d7b8846d0643cc72
+# Kafka Consumer 2
+Possui grupId diferente do consumer 1 apra chegar a mensagens nos dois consumidores
 
 ## configuration
 
